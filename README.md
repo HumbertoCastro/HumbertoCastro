@@ -39,11 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=HumbertoCastro" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/HumbertoCastro/HumbertoCastro/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/HumbertoCastro/count.svg?"  />
