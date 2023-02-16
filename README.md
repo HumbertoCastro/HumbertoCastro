@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Eu sou de Minas Gerais / Brasil.<br>Atualmente atuo como desenvolvedor front-end REACT, e sou estudante do curso de desenvolvimento web da trybe.</p>
+<p align="left">Eu sou de Minas Gerais / Brasil.<br>Sou um desenvolvedor Full-stack formado pela Trybe, com foco em Front-end utilizando React, mas meus conhecimentos tecnicos abrangem toda a area full-stack do desenvolvimento, utilizando node.js e mysql para o Back-end.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-Full stack developer em formaçao<br>-Especialista em React e Js<br>-Desenvolvedor Mobile via Unity<br>-Modelador 3D</p>
+<p align="left">-Full stack developer<br>-Especialista em React e JS<br>-Desenvolvedor Mobile via Unity<br>-Modelador 3D</p>
 
 ###
 
