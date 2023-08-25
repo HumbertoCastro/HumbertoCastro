@@ -4,6 +4,9 @@
 
 <p align="left">Eu sou de Minas Gerais / Brasil.<br>Sou um desenvolvedor Full-stack formado pela Trybe, com foco em Front-end utilizando React, mas meus conhecimentos tecnicos abrangem toda a area full-stack do desenvolvimento, utilizando node.js e mysql para o Back-end.</p>
 
+<p> humberto-dev@hotmail.com </p>
+<p> (31)97586-3351 </p>
+
 ###
 
 <h2 align="left">About me</h2>
