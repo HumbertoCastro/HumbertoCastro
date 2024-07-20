@@ -4,6 +4,9 @@
 
 <p align="left">Eu sou de Minas Gerais / Brasil.<br>Sou um desenvolvedor Full-stack formado pela Trybe, com foco em Front-end utilizando React, mas meus conhecimentos tecnicos abrangem toda a area full-stack do desenvolvimento, utilizando node.js e mysql para o Back-end.</p>
 
+<p> Atualmente atuando como CTO na empresa Numyy, sendo responsavel por toda parte tecnologica da empresa e desenvolvendo as features mais importantes</p>
+<p> Atuando Tambem como Dev Full-stack na empresa Horizonti, trabalhando diariamente nos mais variados projetos e linguagens ( back-end, front-end e AWS )  </p>
+
 <p> humberto-dev@hotmail.com </p>
 <p> (31)97586-3351 </p>
 
