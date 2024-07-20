@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">-Full stack developer<br>-Especialista em React e JS<br>-Desenvolvedor Mobile via Unity<br>-Modelador 3D</p>
+<p align="left">-Full stack developer in Horizonti<br>-CTO in Numyy and Developer<br><br>-Especialista em React - TS - node<br>
 
 ###
 
