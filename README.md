@@ -4,19 +4,19 @@
 
 <p align="left">Eu sou de Minas Gerais / Brasil.<br>Sou um desenvolvedor Full-stack formado pela Trybe, com foco em Front-end utilizando React, mas meus conhecimentos tecnicos abrangem toda a area full-stack do desenvolvimento, utilizando node.js e mysql para o Back-end.</p>
 
-<p> Atualmente atuando como CTO na empresa Numyy, sendo responsavel por toda parte tecnologica da empresa e desenvolvendo as features mais importantes</p>
+<p> Atualmente atuando como Dev Pleno - Tech Lead na empresa Numyy, sendo responsavel por toda parte tecnologica da empresa e desenvolvendo as features mais importantes</p>
 <p> Atuando Tambem como Dev Full-stack na empresa Horizonti, trabalhando diariamente nos mais variados projetos e linguagens ( back-end, front-end e AWS )  </p>
 
-<p> humberto-dev@hotmail.com </p>
+<p> dedebarbos@hotmail.com </p>
 <p> (31)97586-3351 </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">-Full stack developer in Horizonti<br>-CTO in Numyy and Developer<br><br>-Especialista em React - TS - node<br>
+<p align="left">-Full stack desenvolvedor na Horizonti<br> Full stack developer na Numyy. Desenvolvedor <br><br>-Especialista em React - TS - node<br>
 
 ###
 
